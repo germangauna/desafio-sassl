@@ -1,0 +1,18 @@
+nav {
+    background-color: $colornav;
+}
+
+.nav-link:hover {
+    background-color: $colorlink;
+    transform: scale(1.2);
+
+    ul {
+        text-decoration: none;
+        list-style-type: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+        a {
+            color: black;
+        }
+    }
+}

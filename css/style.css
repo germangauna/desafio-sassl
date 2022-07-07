@@ -1,16 +1,22 @@
-body {
-  background-color: gray;
+nav {
+  background-color: #2499c7;
 }
-body .nav-link:hover {
+
+.nav-link:hover {
+  background-color: #cdffff;
   transform: scale(1.2);
 }
-body .nav-link:hover ul {
+.nav-link:hover ul {
   text-decoration: none;
   list-style-type: none;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-body .nav-link:hover ul a {
+.nav-link:hover ul a {
   color: black;
+}
+
+body {
+  background-color: #96b3ff;
 }
 
 .galeria .col-lg-4 {
@@ -35,6 +41,11 @@ body .nav-link:hover ul a {
     width: 100% !important;
     text-align: center;
   }
+}
+footer a {
+  color: black;
+  text-decoration: none;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 /*# sourceMappingURL=style.css.map */
