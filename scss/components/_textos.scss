@@ -1,0 +1,16 @@
+h3 {
+    background-color: $color-secundario;
+   
+    &:hover {
+        background-color: lighten($color-secundario, 5%);
+    }
+    
+}
+
+h1 {
+    background-color: $color-primario;
+
+    &:hover {
+        background-color: darken($color-primario, 20%);
+    }
+}

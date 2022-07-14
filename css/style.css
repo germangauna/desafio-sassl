@@ -48,4 +48,23 @@ body {
   background-color: #96b3ff;
 }
 
+h3 {
+  background-color: #96b3ff;
+}
+h3:hover {
+  background-color: #b0c5ff;
+}
+
+h1 {
+  background-color: #2499c7;
+}
+h1:hover {
+  background-color: #145771;
+}
+
+.redes {
+  border: 1px solid black;
+  border-radius: 200px;
+}
+
 /*# sourceMappingURL=style.css.map */
