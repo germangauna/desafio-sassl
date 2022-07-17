@@ -1,6 +1,4 @@
-.nav-home {
-    background-color: $colornav;
-}
+
 
 .nav-link:hover {
     background-color: $colorfont;
@@ -16,9 +14,13 @@
         }
     }
 }
+.nav-home {
+    background-color: $colornav;
+}
 
 .nav-galeria {
     background-color: $colornavg;
+
 }
 .nav-productos{
     background-color: $colornavp;
@@ -28,6 +30,7 @@
 }
 .nav-contacto{
     background-color: $colornavc;
+
 }
 
 
