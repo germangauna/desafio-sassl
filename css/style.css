@@ -2,6 +2,7 @@
 /*color galeria*/
 /*color productos*/
 /*color servicios*/
+/*color contacto*/
 .nav-home {
   background-color: #2499c7;
 }
@@ -29,6 +30,10 @@
 
 .nav-servicios {
   background-color: #fffd5c;
+}
+
+.nav-contacto {
+  background-color: #946b32;
 }
 
 .galeria .col-lg-4 {
@@ -82,6 +87,10 @@ footer a {
   background-color: #ffffcc;
 }
 
+.body-contacto {
+  background-color: #ebd39a;
+}
+
 h3 {
   background-color: #d7fff5;
 }
@@ -115,6 +124,13 @@ h1:hover {
 }
 .h1-servicios:hover {
   background-color: #dcd900;
+}
+
+.h1-contacto {
+  background-color: #c79846;
+}
+.h1-contacto:hover {
+  background-color: #d0aa75;
 }
 
 .h-galeria {

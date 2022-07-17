@@ -35,6 +35,13 @@ h1 {
         background-color: darken($color-quinto, 25%);
     }
 }
+.h1-contacto {
+    background-color: $colorh1c;
+
+    &:hover {
+        background-color: lighten($color-sexto, 25%);
+    }
+}
 .h-galeria{
     border: 1px solid $colorfooter;
     text-align: center;
