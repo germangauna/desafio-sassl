@@ -1,5 +1,6 @@
 /*color home*/
 /*color galeria*/
+/*color productos*/
 .nav-home {
   background-color: #2499c7;
 }
@@ -19,6 +20,10 @@
 
 .nav-galeria {
   background-color: #ff999d;
+}
+
+.nav-productos {
+  background-color: #66bb00;
 }
 
 .galeria .col-lg-4 {
@@ -61,6 +66,10 @@ footer a {
 
 .body-galeria {
   background-color: #fffbee;
+}
+
+.body-productos {
+  background-color: #c8f0bd;
 }
 
 h3 {
