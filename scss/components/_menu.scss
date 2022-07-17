@@ -1,9 +1,9 @@
-nav {
+.nav-home {
     background-color: $colornav;
 }
 
 .nav-link:hover {
-    background-color: $colorlink;
+    background-color: $colorfont;
     transform: scale(1.2);
     
     ul {
@@ -16,3 +16,9 @@ nav {
         }
     }
 }
+.nav-galeria {
+    background-color: $colornavg;
+}
+
+
+

@@ -14,3 +14,17 @@ h1 {
         background-color: darken($color-primario, 20%);
     }
 }
+
+.h1-galeria{
+    background-color: $colorh1g;
+    &:hover {
+            background-color: darken($color-terciario, 20%);
+        }
+}
+.h-galeria{
+    border: 1px solid $colorfooter;
+    text-align: center;
+}
+h4{
+    font-size: medium;
+}

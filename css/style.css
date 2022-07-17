@@ -1,9 +1,11 @@
-nav {
+/*color home*/
+/*color galeria*/
+.nav-home {
   background-color: #2499c7;
 }
 
 .nav-link:hover {
-  background-color: #cdffff;
+  background-color: white;
   transform: scale(1.2);
 }
 .nav-link:hover ul {
@@ -13,6 +15,10 @@ nav {
 }
 .nav-link:hover ul a {
   color: black;
+}
+
+.nav-galeria {
+  background-color: #ff999d;
 }
 
 .galeria .col-lg-4 {
@@ -44,15 +50,24 @@ footer a {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
-body {
-  background-color: #96b3ff;
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body-home {
+  background-color: #d7fff5;
+}
+
+.body-galeria {
+  background-color: #fffbee;
 }
 
 h3 {
-  background-color: #96b3ff;
+  background-color: #d7fff5;
 }
 h3:hover {
-  background-color: #b0c5ff;
+  background-color: #f1fffb;
 }
 
 h1 {
@@ -60,6 +75,22 @@ h1 {
 }
 h1:hover {
   background-color: #145771;
+}
+
+.h1-galeria {
+  background-color: #ffc18f;
+}
+.h1-galeria:hover {
+  background-color: #ffe388;
+}
+
+.h-galeria {
+  border: 1px solid black;
+  text-align: center;
+}
+
+h4 {
+  font-size: medium;
 }
 
 .redes {
