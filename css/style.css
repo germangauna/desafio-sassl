@@ -1,6 +1,7 @@
 /*color home*/
 /*color galeria*/
 /*color productos*/
+/*color servicios*/
 .nav-home {
   background-color: #2499c7;
 }
@@ -24,6 +25,10 @@
 
 .nav-productos {
   background-color: #66bb00;
+}
+
+.nav-servicios {
+  background-color: #fffd5c;
 }
 
 .galeria .col-lg-4 {
@@ -52,6 +57,7 @@
 footer a {
   color: black;
   text-decoration: none;
+  list-style-type: none;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
@@ -70,6 +76,10 @@ footer a {
 
 .body-productos {
   background-color: #c8f0bd;
+}
+
+.body-servicios {
+  background-color: #ffffcc;
 }
 
 h3 {
@@ -93,6 +103,20 @@ h1:hover {
   background-color: #ffe388;
 }
 
+.h1-productos {
+  background-color: #aaed9e;
+}
+.h1-productos:hover {
+  background-color: #9bff22;
+}
+
+.h1-servicios {
+  background-color: #fcff85;
+}
+.h1-servicios:hover {
+  background-color: #dcd900;
+}
+
 .h-galeria {
   border: 1px solid black;
   text-align: center;
@@ -100,6 +124,11 @@ h1:hover {
 
 h4 {
   font-size: medium;
+}
+
+.list-group-item {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: #ffffcc;
 }
 
 .redes {

@@ -21,10 +21,28 @@ h1 {
             background-color: darken($color-terciario, 20%);
         }
 }
+.h1-productos {
+    background-color: $colorh1p;
+
+    &:hover {
+        background-color: lighten($color-cuarto, 20%);
+    }
+}
+.h1-servicios {
+    background-color: $colorh1s;
+
+    &:hover {
+        background-color: darken($color-quinto, 25%);
+    }
+}
 .h-galeria{
     border: 1px solid $colorfooter;
     text-align: center;
 }
 h4{
     font-size: medium;
+}
+.list-group-item{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: $colorbgs;
 }

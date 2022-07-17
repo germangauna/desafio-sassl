@@ -12,15 +12,19 @@
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
         a {
-            color: black;
+            color: $colorfooter;
         }
     }
 }
+
 .nav-galeria {
     background-color: $colornavg;
 }
 .nav-productos{
     background-color: $colornavp;
+}
+.nav-servicios{
+    background-color: $colornavs;
 }
 
 
