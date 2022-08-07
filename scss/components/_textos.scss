@@ -18,7 +18,7 @@ h1 {
 .h1-galeria{
     background-color: $colorh1g;
     &:hover {
-            background-color: darken($color-terciario, 20%);
+            background-color: lighten($color-terciario, 10%);
         }
 }
 .h1-productos {

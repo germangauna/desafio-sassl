@@ -1,24 +1,24 @@
 /*color home*/
-$colorbg:#d7fff5;
-$colornav: #2499c7;
-$colorlink: #cdffff;
+$colorbg:hsl(240, 68%,91%);
+$colornav: hsl(240, 68%, 70%);
+$colorlink: hsl(240,68%, 96%);
 $colorfont: white;
 $colorfooter: black;
 
 /*color galeria*/
-$colorbgg:#fffbee;
-$colornavg: #ff999d;
-$colorlinkg:#fffb98;
-$colorh1g:#ffc18f;
+$colorbgg:hsl(15, 86%, 95%);
+$colornavg:hsl(0, 86%, 80%);
+$colorlinkg:hsl(20, 86%, 97%);
+$colorh1g:hsl(30, 86%, 80%);
 
 /*color productos*/
-$colorbgp:#c8f0bd;
-$colornavp:#66bb00;
-$colorh1p:#aaed9e;
+$colorbgp: hsl(120, 26%, 87%);
+$colornavp:hsl(120, 39%, 50%);
+$colorh1p: hsl(120, 55%, 85%);
 
 /*color servicios*/
-$colorbgs:#ffffcc;
-$colornavs:#fffd5c;
+$colorbgs:hsl(60, 80%, 80%);
+$colornavs:hsl(60, 68%, 60%);
 $colorh1s: #fcff85;
 
 /*color contacto*/

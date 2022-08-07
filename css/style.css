@@ -17,19 +17,19 @@
 }
 
 .nav-home {
-  background-color: #2499c7;
+  background-color: hsl(240deg, 68%, 70%);
 }
 
 .nav-galeria {
-  background-color: #ff999d;
+  background-color: hsl(0deg, 86%, 80%);
 }
 
 .nav-productos {
-  background-color: #66bb00;
+  background-color: hsl(120deg, 39%, 50%);
 }
 
 .nav-servicios {
-  background-color: #fffd5c;
+  background-color: hsl(60deg, 68%, 60%);
 }
 
 .nav-contacto {
@@ -59,32 +59,32 @@
     text-align: center;
   }
 }
-footer a {
+footer ul li a {
   color: black;
   text-decoration: none;
-  list-style-type: none;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 * {
   margin: 0;
   padding: 0;
+  list-style-type: none;
 }
 
 .body-home {
-  background-color: #d7fff5;
+  background-color: hsl(240deg, 68%, 91%);
 }
 
 .body-galeria {
-  background-color: #fffbee;
+  background-color: hsl(15deg, 86%, 95%);
 }
 
 .body-productos {
-  background-color: #c8f0bd;
+  background-color: hsl(120deg, 26%, 87%);
 }
 
 .body-servicios {
-  background-color: #ffffcc;
+  background-color: hsl(60deg, 80%, 80%);
 }
 
 .body-contacto {
@@ -92,38 +92,38 @@ footer a {
 }
 
 h3 {
-  background-color: #d7fff5;
+  background-color: hsl(240deg, 68%, 91%);
 }
 h3:hover {
-  background-color: #f1fffb;
+  background-color: #eeeefc;
 }
 
 h1 {
-  background-color: #2499c7;
+  background-color: hsl(240deg, 68%, 70%);
 }
 h1:hover {
-  background-color: #145771;
+  background-color: #2929d6;
 }
 
 .h1-galeria {
-  background-color: #ffc18f;
+  background-color: hsl(30deg, 86%, 80%);
 }
 .h1-galeria:hover {
-  background-color: #ffe388;
+  background-color: white;
 }
 
 .h1-productos {
-  background-color: #aaed9e;
+  background-color: hsl(120deg, 55%, 85%);
 }
 .h1-productos:hover {
-  background-color: #9bff22;
+  background-color: #95d095;
 }
 
 .h1-servicios {
   background-color: #fcff85;
 }
 .h1-servicios:hover {
-  background-color: #dcd900;
+  background-color: #96961d;
 }
 
 .h1-contacto {
@@ -144,12 +144,12 @@ h4 {
 
 .list-group-item {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  background-color: #ffffcc;
+  background-color: hsl(60deg, 80%, 80%);
 }
 
 .redes {
   border: 1px solid black;
-  border-radius: 200px;
+  border-collapse: 200px;
 }
 
 .envios {
